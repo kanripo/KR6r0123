@@ -1,18 +1,3 @@
-#+TITLE: 善女人傳 / CBETA
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-30 22:20:32.311551
-* 版本
- |     CBETA|【電子佛典集成】|
- |         T|【大】     |
- |    T@BING|【大→丙】   |
- |    T@DING|【大→丁】   |
- |    T@HARA|【大→原】   |
- |      T@JI|【大→己】   |
- |     T@JIA|【大→甲】   |
- |    T@MING|【大→明】   |
- |    T@SONG|【大→宋】   |
- |      T@WU|【大→戊】   |
- |      T@YI|【大→乙】   |
- |    T@YUAN|【大→元】   |
-目次
- - [[file:KR6r0123_001.txt][善女人傳 1]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
